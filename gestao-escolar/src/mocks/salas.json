@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Programação FullStack Matutino",
+        "capacity": 16,
+        "students": 3,
+        "day": "Quarta-Feira",
+        "hour": "8:00"
+    },
+    {
+        "id": 2,
+        "name": "Programação FullStack Vespertino",
+        "capacity": 16,
+        "students": 4,
+        "day": "Quarta-Feira",
+        "hour": "14:00"
+    },
+    {
+        "id": 3,
+        "name": "Programação FullStack Matutino",
+        "capacity": 16,
+        "students": 3,
+        "day": "Sexta-Feira",
+        "hour": "8:00"
+    },
+    {
+        "id": 4,
+        "name": "Programação FullStack Vespertino",
+        "capacity": 16,
+        "students": 3,
+        "day": "Sexta-Feira",
+        "hour": "14:00"
+    }
+]
